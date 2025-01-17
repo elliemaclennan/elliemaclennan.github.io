@@ -1,0 +1,9 @@
+---
+title: "Selected Portfolio Items"
+author: "myname"
+output: html_document
+---
+
+- [Greying Manhattan's Disaster Preparedness - View Project PDF](Portfolio%20Items/gis_memo_myname.pdf)
+- [Gendered Differences in Ageing Across Canada - View PDF](Portfolio%20Items/genderedAgeing_poster_myname.pdf)
+- [Creating a SQL Database for Spatial Analysis - View PDF](Portfolio%20Items/db_communityAccessibility_myname.pdf)
