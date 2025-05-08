@@ -39,9 +39,9 @@ The discourse surrounding this influx of immigrants has been not unlike anti-imm
 
 However, the more we met with Renca residents themselves, we heard more and more about how they were feeling unsafe in their community, to the point it was dictating participation in the community. Concerns about safety were common among women. While not all women were concerned about safety, and some pushed back against ideas that Renca was dangerous, this is where I began to feel conflicted.
 
-![Renca Hill Sign](RencaMedia/rencaWomen.jpg)
-
 Safety and Women in Chile Crime rates overall are lower compared to many other Latin American countries, but a [very high proportion of crime](https://www.unodc.org/documents/data-and-analysis/gsh/2023/GSH_2023_LAC_web.pdf) in Chile, and violence more broadly, is related to intimate partner, or family-related violence. Women and children are disproportionately represented as victims in these types of violence. On the other hand, men are overwhelming over-represented as the perpetrators of sexual and domestic violence.
+
+![](images/crimeTypes.jpg)
 
 At the same time, Chile is home to a very vibrant women’s movement. I arrived just in time for the Women’s march on the March 8th for International Women’s Day and was able to catch the tail end of the festivities. The Santiago streets were filled with women and girls dressed with purple bandannas and carrying feminist signs. I had not seen such a vibrant and enthusiastic participation for a feminist event in the United States or Canadian context.
 
@@ -71,3 +71,4 @@ The standard intersectional framework is useful in many contexts when discussing
 
 While I am not sure how to bridge the dissonance between feminism and territorial stigmatization, I think we need a more nuanced conversation about both topics. Linking different forms of oppression, and their critiques, seems to be the only way to fully understand these issues.
 
+![](RencaMedia/rencaWomen.jpg)
