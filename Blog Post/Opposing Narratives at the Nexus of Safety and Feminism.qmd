@@ -15,7 +15,7 @@ I recently visited Renca, Chile for a school project about a new metro line comi
 
 Renca is a northeastern peripheral community in the greater Santiago area, and has been subjected to a history of stigmatization and disinvestment. Largely due to its location being north of the Mapocho river and away from Santiago proper, the area has faced poverty and little investment for a long time. It exists quite literally on the margins of Santiago.
 
-However, this was reinforced during the Pinochet military coup and dictatorship from 1973-1990. The Pinochet dictatorship undertook a widespread displacement effort in order to homogenize regions by class. During this period, \[many poorer residents from all over Santiago were forcibly displaced to periphery regions\] (https://fernandara.github.io/wp_website/housing_dictatorship_sept2024.pdf), with Renca being a main receiving municipality for many forcibly displaced people. This further concentrated poverty, and helped create the image of Renca as being a poor, forgotten comuna on the margins of Santiago.
+However, this was reinforced during the Pinochet military coup and dictatorship from 1973-1990. The Pinochet dictatorship undertook a widespread displacement effort in order to homogenize regions by class. During this period, [many poorer residents from all over Santiago were forcibly displaced to periphery regions](https://fernandara.github.io/wp_website/housing_dictatorship_sept2024.pdf), with Renca being a main receiving municipality for many forcibly displaced people. This further concentrated poverty, and helped create the image of Renca as being a poor, forgotten comuna on the margins of Santiago.
 
 Public narratives of safety Poverty fuels the perception of the comuna being lesser than other neighborhoods of Santiago. This is not a problem unique to Renca - many poorer communities around the world that have faced stigmatization of the entire territory, and through stigmatizing a place, the people attached to such places also face stigmatization via association.
 
@@ -37,7 +37,9 @@ We attributed much of these concerns of rising crime to be related to anti-immig
 
 The discourse surrounding this influx of immigrants has been not unlike anti-immigrant sentiments being seen across the United States and many countries in Europe: there are wide-spread concerns immigrants will bring more crime to the country, and a [marked rise in nationalistic attitudes](https://www.giancarlovisconti.com/pdfs/Visconti%20and%20Vega-Mendez.2024.Nationalism.pdf).
 
-However, the more we met with Renca residents themselves, we heard more and more about how they were feeling unsafe in their community, to the point it was dictating their behaviour. This was especially true amongst women. This is where I began to feel conflicted.
+However, the more we met with Renca residents themselves, we heard more and more about how they were feeling unsafe in their community, to the point it was dictating participation in the community. Concerns about safety were common among women. While not all women were concerned about safety, and some pushed back against ideas that Renca was dangerous, this is where I began to feel conflicted.
+
+![Renca Hill Sign](RencaMedia/rencaWomen.jpg)
 
 Safety and Women in Chile Crime rates overall are lower compared to many other Latin American countries, but a [very high proportion of crime](https://www.unodc.org/documents/data-and-analysis/gsh/2023/GSH_2023_LAC_web.pdf) in Chile, and violence more broadly, is related to intimate partner, or family-related violence. Women and children are disproportionately represented as victims in these types of violence. On the other hand, men are overwhelming over-represented as the perpetrators of sexual and domestic violence.
 
@@ -68,3 +70,4 @@ I have wondered if an intersectional approach to feminism, and even perceptions 
 The standard intersectional framework is useful in many contexts when discussing women’s issues. While there is a wealth of information about how scholars use intersectionality [see Cho and colleagues for more academic writing on the topic](https://www.journals.uchicago.edu/doi/full/10.1086/669608), there seems to be a lack of applying these ideas to conversations of territorial stigmatization. The closest example of writing on this topic came from a Finnish scholar, Suvi Keskinen. Keskinen links gendered racism of racialized minority youth with territorial stigmatization explicitly.
 
 While I am not sure how to bridge the dissonance between feminism and territorial stigmatization, I think we need a more nuanced conversation about both topics. Linking different forms of oppression, and their critiques, seems to be the only way to fully understand these issues.
+
