@@ -9,7 +9,7 @@ format:
     code-fold: false
 ---
 
-Background
+**Background**
 
 I recently visited Renca, Chile for a school project about a new metro line coming to the community. I expected this project to center around transit, but shortly upon arrival, I realized transit was only a very small piece of the story.
 
@@ -17,7 +17,9 @@ Renca is a northeastern peripheral community in the greater Santiago area, and h
 
 However, this was reinforced during the Pinochet military coup and dictatorship from 1973-1990. The Pinochet dictatorship undertook a widespread displacement effort in order to homogenize regions by class. During this period, [many poorer residents from all over Santiago were forcibly displaced to periphery regions](https://fernandara.github.io/wp_website/housing_dictatorship_sept2024.pdf), with Renca being a main receiving municipality for many forcibly displaced people. This further concentrated poverty, and helped create the image of Renca as being a poor, forgotten comuna on the margins of Santiago.
 
-Public narratives of safety Poverty fuels the perception of the comuna being lesser than other neighborhoods of Santiago. This is not a problem unique to Renca - many poorer communities around the world that have faced stigmatization of the entire territory, and through stigmatizing a place, the people attached to such places also face stigmatization via association.
+**Public narratives of safety**
+
+Poverty fuels the perception of the comuna being lesser than other neighborhoods of Santiago. This is not a problem unique to Renca - many poorer communities around the world that have faced stigmatization of the entire territory, and through stigmatizing a place, the people attached to such places also face stigmatization via association.
 
 This is a process scholars have come to call “territorial stigmatization,” [see writings on the topic](https://journals.sagepub.com/doi/abs/10.1068/a4606ge). This concept, coined by Lois Wacquant, also acknowledgest these stigmatized communities tend to not only be of lower socio-economic classes, but also tend to see more racially-minoritized residents. Once a place becomes so stigmatized, the prophecy tends to be self-fulfilling: the public or state hear a place is bad or dangerous, and treat it as such. In doing so, communities are less desired locations for investment. Communities with less investments tend to see worse neighborhood conditions, such as inferior infrastructure, fewer public spaces, and less people on their streets. Consequently, stigmatized communities tend to feel less safe.
 
@@ -31,7 +33,9 @@ When I spent time outside of Renca in the greater Santiago area, most people I s
 
 In these conversations, while some made it clear they didn’t think Renca was a suitable destination to visit, others seemed genuinely concerned about our safety, given the reputation of the community.
 
-Criticism of such narratives & pushback of stigmatization The current mayor is doing a lot to undo years of stigmatization of Renca and change the perception of what image Santiagans’ have of Renca. This is clearly important work. And our team did our best to push back against ideas of stigmatizing the area, and we were critical of rhetoric that Renca is unsafe.
+**Criticism of such narratives & pushback of stigmatization**
+
+The current mayor is doing a lot to undo years of stigmatization of Renca and change the perception of what image Santiagans’ have of Renca. This is clearly important work. And our team did our best to push back against ideas of stigmatizing the area, and we were critical of rhetoric that Renca is unsafe.
 
 We attributed much of these concerns of rising crime to be related to anti-immigration sentiments due to the [recent rise in Venezuelan, Haitian, and Colombian immigrants](https://mixedmigration.org/chiles-response-to-migration/) across Chile. Historically, Chile has not been very racially-diverse, so racial-visibility plays role in othering of new immigrants.
 
@@ -39,7 +43,9 @@ The discourse surrounding this influx of immigrants has been not unlike anti-imm
 
 However, the more we met with Renca residents themselves, we heard more and more about how they were feeling unsafe in their community, to the point it was dictating participation in the community. Concerns about safety were common among women. While not all women were concerned about safety, and some pushed back against ideas that Renca was dangerous, this is where I began to feel conflicted.
 
-Safety and Women in Chile Crime rates overall are lower compared to many other Latin American countries, but a [very high proportion of crime](https://www.unodc.org/documents/data-and-analysis/gsh/2023/GSH_2023_LAC_web.pdf) in Chile, and violence more broadly, is related to intimate partner, or family-related violence. Women and children are disproportionately represented as victims in these types of violence. On the other hand, men are overwhelming over-represented as the perpetrators of sexual and domestic violence.
+**Safety and Women in Chile**
+
+Crime rates overall are lower compared to many other Latin American countries, but a [very high proportion of crime](https://www.unodc.org/documents/data-and-analysis/gsh/2023/GSH_2023_LAC_web.pdf) in Chile, and violence more broadly, is related to intimate partner, or family-related violence. Women and children are disproportionately represented as victims in these types of violence. On the other hand, men are overwhelming over-represented as the perpetrators of sexual and domestic violence.
 
 ![](images/crimeTypes.jpg)
 
@@ -51,7 +57,9 @@ In Renca, we also noticed how women seemed to be the backbone of the community. 
 
 While some argue this is partly out of [state supported women’s organizing](https://www.cambridge.org/core/journals/latin-american-research-review/article/state-feminism-and-womens-movements-the-impact-of-chiles-servicio-nacional-de-la-mujer-on-womens-activism/7BD565362A15C3A3E22E4925D76CE3DA) , it seemed to be borne out of necessity.
 
-Feminist discourses Coming from a feminist background, the concept of believing women is something extremely important to me. When court cases related to sexual violence or domestic abuse enter the public discourse, such as the Depp v. Heard case, we see women still face barriers to being believed. I was dismayed by the rapid and widespread assumption that Heard’s allegations were false, and how quick the public was to discredit Heard through undermining her character. I was confused - was this some sort of collective amnesia? I thought we had, as a society, learned that there is no such thing as a perfect victim, but even then, and perhaps most importantly then, must we believe victims.
+**Feminist discourses** & areas of conflict
+
+Coming from a feminist background, the concept of believing women is something extremely important to me. When court cases related to sexual violence or domestic abuse enter the public discourse, such as the Depp v. Heard case, we see women still face barriers to being believed. I was dismayed by the rapid and widespread assumption that Heard’s allegations were false, and how quick the public was to discredit Heard through undermining her character. I was confused - was this some sort of collective amnesia? I thought we had, as a society, learned that there is no such thing as a perfect victim, but even then, and perhaps most importantly then, must we believe victims.
 
 So how can I, as someone who identifies with the feminist movement so adamantly, not wholeheartedly take Renca womens’ concerns of safety as legitimate, when they are telling us they feel unsafe? Shouldn’t their word be enough to take these concerns as legitimate? I certainly think so, but how can this be reconciled with some concerns of safety being tied to anti-immigration (and so often racist) discourse?
 
@@ -63,7 +71,9 @@ I disagreed with this viewpoint, as race and socio-economic are very difficult t
 
 Many newcomers to Chile come out of necessity, fleeing violence in their home countries or seeking economic opportunity. Given Renca’s reputation and location, most people moving to the comuna move for family or to work. Thus, many immigrants come to work, often in the logistics industry as Renca neighbours the airport. Immigrants are often unable to take higher-paid positions, and end up working lower paid jobs. This further reinforces the stigmatization of new immigrants, associating immigrants, and the communities in which they live, as being poorer and less safe.
 
-Is there a solution? Unfortunately, we have not yet been unable to adequately address racism and xenophobia in public discourse. The same can be said of sexism. While it sometimes appears progress has been made, these systems of oppression are persistent and reproduce in public narratives
+**Is there a solution to bridging these conflicting narratives without compromising the other?**
+
+Unfortunately, we have not yet been unable to adequately address racism and xenophobia in public discourse. The same can be said of sexism. While it sometimes appears progress has been made, these systems of oppression are persistent and reproduce in public narratives
 
 I have wondered if an intersectional approach to feminism, and even perceptions of safety, is enough to bridge these divides in discourse. Broadly speaking, intersectionality is a framework that stems from Black legal scholar, Kimberlé Crenshaw, to help explain interactions between different aspects of identity , that is to say people are not a singular identity ([see more on her work](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203060902-6/mapping-margins-intersectionality-identity-politics-violence-women-color-kimberl%C3%A9-williams-crenshaw). For example, Black women experience sexism uniquely from white women, as racism also shapes gendered discrimination.
 
@@ -71,6 +81,6 @@ The standard intersectional framework is useful in many contexts when discussing
 
 It seems issues of safety and violence seem to be the site nexus of where these discourses come up against each other. At the end of the day, perceptions of safety are important. Whether crime statistics perfectly match perception of crime is only part of the story, as people's perceptions are ultimately their reality.
 
-While I am not sure how to bridge the dissonance between feminism and territorial stigmatization, I think we need a more nuanced conversation about both topics. Linking different forms of oppression, and their critiques, seems to be the only way to fully understand these issues. When women, and people more broadly, feel safe in their communities, this benefits everyone. When communities fight back and resist narratives of stigmatization, their communities improve. While discourses may not always align, we can learn from both, and exploring the site of these tensions is the place to do this. 
+While I am not sure how to bridge the dissonance between feminism and territorial stigmatization, I think we need a more nuanced conversation about both topics. Linking different forms of oppression, and their critiques, seems to be the only way to fully understand these issues. When women, and people more broadly, feel safe in their communities, this benefits everyone. When communities fight back and resist narratives of stigmatization, their communities improve. While discourses may not always align, we can learn from both, and exploring the site of these tensions is the place to do this.
 
 ![](RencaMedia/rencaWomen.jpg)
